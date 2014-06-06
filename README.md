@@ -26,3 +26,14 @@ Please read the FDC user manual, found at
 	https://sourceforge.net/projects/dutchroll/
 
 For more information about the actual flight dynamics.
+
+
+
+Licensing
+---------
+
+This code is a derivative work of the Flight Dynamics Toolbox, which was
+distributed under version 2.1 of the Open Software License, included in the file
+license.txt.
+
+Copyright 2013-2014 California Institute of Technology
